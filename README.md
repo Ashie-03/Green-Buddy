@@ -1,11 +1,15 @@
 # 🌱 Green Buddy - Your Home Gardening Buddy 👨‍🌾✂️🌳🍀
 Group project - Group-1
 
+[Cick here to view the Presentation](https://www.canva.com/design/DAGPT29KwKw/fQx-m-gfAP34MQTmwRom_g/edit?utm_content=DAGPT29KwKw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## 📢 About The Project
 + Green Buddy is a user-friendly website designed to help both registered and guest users perform gardening activities efficiently and effectively. With this app, users can create their own account to access information like detailed plant information, plant care tips, weather forecast details, nearby gardening shops, recommended videos based on plant to help plan their gardening activities effectively.
 + Green Buddy was created with an aim to address the challenges that many gardeners face for not having proper information, such as choosing the right plants, understanding the care requirements, and managing their gardens effectively.
 + The website provides personalized recommendations, brief suggestions based on temperature, care guides, and an interactive platform where users can add plant collections to their profile, including species information and other relevant details to keep track of their plants.
 
+## My Contributions to the Project (ASHWINI RAVIKUMAR)
+![MODEL](https://github.com/Ashie-03/Green-Buddy/blob/main/assets/my_contributions.png)
 
 ## 🛠️ Problem Statement
 
